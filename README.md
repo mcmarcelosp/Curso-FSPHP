@@ -1,2 +1,2 @@
 # Curso FSPHP
- Curso completo de PHP pela UPINSIDE
+ Curso completo de PHP
